@@ -2,13 +2,19 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="ShoppingDaoTest">
+      <entry key="ShoppingFragmentTest">
         <State />
       </entry>
-      <entry key="app">
+      <entry key="clickAddShoppingItemButton_navigateToAddShoppingItemFragment()">
         <State />
       </entry>
-      <entry key="observeTotalPriceSum()">
+      <entry key="clickImage_popBackStackAndSetImageUrl()">
+        <State />
+      </entry>
+      <entry key="pressBackButton_popBackStack()">
+        <State />
+      </entry>
+      <entry key="pressImageView_navigatesToImagePickFragment()">
         <State />
       </entry>
     </value>
